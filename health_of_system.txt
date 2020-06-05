@@ -1,0 +1,10 @@
+waiting for 1 second sample...
+#<----CPU[HYPER]-----><-------Int--------><-----------------Memory-----------------><----------Disks-----------><----------Network----------><-------TCP--------><------Sockets-----><----Files---><------NFS Totals------>
+#cpu sys inter  ctxsw Cpu0 Cpu1 Cpu2 Cpu3 Free Buff Cach Inac Slab  Map   Fragments KBRead  Reads KBWrit Writes   KBIn  PktIn  KBOut  PktOut   IP  Tcp  Udp Icmp  Tcp  Udp  Raw Frag Handle Inodes  Reads Writes Meta Comm 
+  10   2  1235   3275  601  171  308  155   3G 250M   3G   1G 269M   5G jjmnkjeca9r      0      0      4      1      0      0      0       0    0    0    0    0 1974    0    0    0  17536  91332      0      0    0    0 
+  11   1  1476   3580  643  219  480  161   3G 250M   3G   1G 269M   5G smmnkjeca9r      0      0    300      5      0      0      0       0    0    0    0    0 1973    0    0    0  17536  91350      0      0    0    0 
+  14   2  1602   3804  746  144  516  200   3G 250M   3G   1G 269M   5G qmmnkjeca9r      0      0    424     97      0      0      0       0    0    0    0    0 1974    0    0    0  17536  91344      0      0    0    0 
+  29   3  2383   5504  915  678  763  590   3G 250M   3G   1G 269M   5G hngjljeca9r      0      0    180      2      0      0      0       0    0    0    0    0 1973    0    0    0  17536  91391      0      0    0    0 
+  17   2  1975   4764 1005  432  547  483   3G 250M   3G   1G 269M   5G snjjljeca9r      0      0     44      3      0      0      0       0    0    0    0    0 1967    0    0    0  17408  91342      0      0    0    0 
+  22   3  2186   7723  815  379  712  456   3G 250M   3G   1G 269M   5G sollljeca9r      0      0      0      0      0      0      0       0    0    0    0    0 1966    0    0    0  17376  91269      0      0    0    0 
+  36   5  2552   9180  949  412  683  644   3G 250M   3G   1G 269M   5G nkllljeca9r      0      0      8      2      0      0      0       0    0    0    0    0 1973    0    0    0  17376  91304      0      0    0    0 
